@@ -1,0 +1,52 @@
+body{
+
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #464646;
+	background-position: center center;
+}
+
+h2.h1{
+	text-align:center;
+	font-family: Tepeno Sans;
+	font-weight: bold;
+	letter-spacing: 0.1rem;
+	color:black;
+	font-size:200px;
+	text-shadow: 0 0 3px #E5AC74, 0 0 5px #E8875C;
+}
+
+h1{
+		text-align:center;
+	font-family: Tepeno Sans;
+	font-weight: bold;
+	letter-spacing: 0.1rem;
+	color:black;
+	font-size:100px;
+}
+.pager2 {
+ position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.pager3 {
+ position: fixed;
+    bottom: 0px;
+left:0;
+}
+			
+.pagination{
+	float:right;
+}
+.container-fluid{
+padding:auto;
+margin:auto;
+text-align:centre;
+}
+.img-circle{
+	width: 320px;
+	height: 400px;
+
+}
